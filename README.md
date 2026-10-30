@@ -5,7 +5,7 @@ plugin connects an AI assistant to Sway's public catalogue: events, artists, ven
 genres.
 
 - Read-only. It exposes public catalogue data only: no sign-in, no personal data, no drafts.
-- Remote MCP server (streamable HTTP): `https://mcp.sway.events/api/mcp/discovery`
+- Remote MCP server (streamable HTTP): `https://mcp.sway.events/discovery`
 - Works with any client that supports Agent Plugins or remote MCP servers (Cursor, Grok Bot, Claude,
   ChatGPT and others).
 

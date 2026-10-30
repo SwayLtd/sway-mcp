@@ -3,7 +3,7 @@
   "mcpServers": {
     "sway": {
       "type": "streamable-http",
-      "url": "https://mcp.sway.events/api/mcp/discovery"
+      "url": "https://mcp.sway.events/discovery"
     }
   }
 }
