@@ -14,7 +14,7 @@ genres.
 | Tool | What it does |
 |---|---|
 | `search_events` | Upcoming published events by text, city, genre and date range, soonest first |
-| `get_event` | One event with its lineup, venue, promoters and ticket types |
+| `get_event` | One event with its lineup, venue, genres and, when it sells tickets on Sway, ticket types |
 | `search_artists`, `get_artist` | Find an artist, open one |
 | `search_venues`, `get_venue` | Find a venue, open one |
 | `search_promoters`, `get_promoter` | Find a promoter, open one |
