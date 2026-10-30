@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sway",
+  "version": "1.0.0",
+  "description": "Discover electronic music events, artists, venues, promoters and genres on Sway. Read-only public catalogue, no sign-in.",
+  "author": {
+    "name": "Sway SRL",
+    "email": "contact@sway.events",
+    "url": "https://www.sway.events"
+  },
+  "homepage": "https://www.sway.events/en/docs/api/public-mcp",
+  "repository": "https://github.com/SwayLtd/sway-mcp",
+  "license": "MIT",
+  "keywords": ["events", "music", "techno", "house", "nightlife", "clubs", "festivals", "artists", "venues", "promoters", "lineups"]
+}
